@@ -1,0 +1,17 @@
+{
+  "name": "vqs-website",
+  "version": "1.0.0",
+  "description": "Sitio web de Vanguard Quantitative Solutions (HTML + JS + API JSON)",
+  "main": "server.js",
+  "scripts": {
+    "build": "echo \"Sitio estatico: no requiere compilacion\"",
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {},
+  "license": "UNLICENSED",
+  "private": true
+}
