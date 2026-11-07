@@ -1,0 +1,2 @@
+# Datos privados (mensajes del formulario). Nunca accesibles por web.
+Require all denied

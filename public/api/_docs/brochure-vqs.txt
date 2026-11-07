@@ -1,0 +1,6 @@
+Vanguard Quantitative Solutions
+Consultoría integral para el desarrollo empresarial
+Caracas, Venezuela
+
+Documento de ejemplo para el endpoint /api/documents.
+Reemplázalo por tus PDF, propuestas o plantillas y regístralos en documents/index.json.

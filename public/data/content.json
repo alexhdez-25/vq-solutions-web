@@ -1,0 +1,391 @@
+{
+  "company": {
+    "name": "Vanguard Quantitative Solutions",
+    "short": "VQS",
+    "tagline": "Consultoría integral para el desarrollo empresarial",
+    "pitch": "Impulsamos el crecimiento de tu empresa mediante la integración de tecnología, logística avanzada, estrategia financiera y optimización económica. Transformamos desafíos en ventajas competitivas.",
+    "location": "Miami · Caracas",
+    "year": 2026
+  },
+  "contact": {
+    "emails": [
+      "info@vq-solutions.com",
+      "info@awaiallc.com"
+    ],
+    "people": [
+      "Karen Martinez",
+      "Jimmy Sánchez"
+    ],
+    "city": "Miami · Caracas",
+    "hours": "Lunes a viernes · 8:00 a 17:00"
+  },
+  "pillars": [
+    {
+      "id": "tecnologia",
+      "title": "Tecnología",
+      "text": "Datos, automatización y plataformas que convierten la operación diaria en información para decidir.",
+      "metric": "01"
+    },
+    {
+      "id": "logistica",
+      "title": "Logística avanzada",
+      "text": "Cadenas de suministro más cortas, inventarios medidos y rutas optimizadas con modelos cuantitativos.",
+      "metric": "02"
+    },
+    {
+      "id": "finanzas",
+      "title": "Estrategia financiera",
+      "text": "Planeación, flujo de caja y estructura de capital alineados con los objetivos del negocio.",
+      "metric": "03"
+    },
+    {
+      "id": "economia",
+      "title": "Optimización económica",
+      "text": "Costos, precios y rentabilidad analizados con rigor para liberar margen y crecer de forma sostenible.",
+      "metric": "04"
+    }
+  ],
+  "benefits": [
+    {
+      "title": "Procesos más eficientes",
+      "text": "Detectamos cuellos de botella y eliminamos tareas que no agregan valor."
+    },
+    {
+      "title": "Decisiones basadas en datos",
+      "text": "Indicadores y análisis claros para que cada decisión tenga respaldo."
+    },
+    {
+      "title": "Mayor productividad",
+      "text": "Herramientas y prácticas que multiplican lo que tu equipo logra."
+    },
+    {
+      "title": "Innovación y competitividad",
+      "text": "Adopción ordenada de tecnología para mantenerte un paso adelante."
+    },
+    {
+      "title": "Finanzas sanas",
+      "text": "Mejor uso de recursos, control del flujo de caja y visión patrimonial."
+    },
+    {
+      "title": "Cumplimiento normativo",
+      "text": "Operación alineada con las leyes fiscales, laborales y mercantiles vigentes."
+    }
+  ],
+  "approach": [
+    {
+      "step": "01",
+      "title": "Diagnosticamos",
+      "text": "Evaluamos la organización completa: procesos, finanzas, talento y el nivel de madurez tecnológica con el que hoy opera."
+    },
+    {
+      "step": "02",
+      "title": "Modelamos",
+      "text": "Cuantificamos el problema. Construimos modelos financieros, logísticos y de datos que muestran dónde está el valor."
+    },
+    {
+      "step": "03",
+      "title": "Diseñamos",
+      "text": "Creamos soluciones a la medida, integrando a especialistas de varias disciplinas con una visión estratégica de negocio."
+    },
+    {
+      "step": "04",
+      "title": "Implementamos y medimos",
+      "text": "Acompañamos la ejecución y medimos resultados con indicadores acordados desde el inicio."
+    }
+  ],
+  "about": {
+    "intro": "Vanguard Quantitative Solutions es una firma de consultoría integral con presencia en Miami y Caracas. Nacimos con una convicción simple: los problemas de una empresa rara vez viven en una sola área, y las mejores decisiones se toman con números en la mano.",
+    "body": [
+      "Reunimos experiencia corporativa en finanzas, operaciones, talento, legal y tecnología para atender a la empresa como un todo. Escuchamos primero, entendemos el contexto y luego proponemos soluciones concretas, medibles y rentables.",
+      "Nuestro sello es el enfoque cuantitativo: inteligencia de negocios, analítica de información, calidad de datos y transformación organizacional puestas al servicio de la estrategia. La tecnología no es un fin, es el medio para que tu organización cumpla sus objetivos de forma eficiente y sostenible."
+    ],
+    "mission": "Hacer que las empresas sean más eficientes, rentables y competitivas mediante soluciones integrales, medibles y diseñadas por especialistas.",
+    "vision": "Ser la consultora de referencia en Venezuela y la región por unir estrategia, datos y tecnología en resultados tangibles para nuestros clientes.",
+    "values": [
+      {
+        "title": "Integridad",
+        "text": "Ética y transparencia en cada recomendación y en cada decisión."
+      },
+      {
+        "title": "Rigor cuantitativo",
+        "text": "Medimos antes de opinar. Los datos guían nuestras propuestas."
+      },
+      {
+        "title": "Confiabilidad",
+        "text": "Resultados consistentes y acompañamiento de principio a fin."
+      },
+      {
+        "title": "Cliente al centro",
+        "text": "Soluciones personalizadas que superan expectativas."
+      },
+      {
+        "title": "Colaboración",
+        "text": "Trabajamos junto a tu equipo, con tus metas como propias."
+      },
+      {
+        "title": "Innovación",
+        "text": "Curiosidad permanente por nuevas tendencias y tecnologías."
+      }
+    ],
+    "industries": [
+      "Energía y petróleo",
+      "Manufactura",
+      "Comercio y retail",
+      "Logística y transporte",
+      "Servicios profesionales",
+      "Seguros",
+      "Hotelería y turismo",
+      "Restaurantes",
+      "Salud",
+      "Agroindustria"
+    ]
+  },
+  "categories": [
+    {
+      "id": "administrativa",
+      "title": "Administrativa"
+    },
+    {
+      "id": "juridica",
+      "title": "Jurídica"
+    },
+    {
+      "id": "comercial",
+      "title": "Comercial"
+    },
+    {
+      "id": "tecnologia",
+      "title": "Tecnología"
+    },
+    {
+      "id": "educacion",
+      "title": "Educación"
+    }
+  ],
+  "services": [
+    {
+      "id": "finanzas-y-contabilidad",
+      "category": "administrativa",
+      "title": "Finanzas y Contabilidad",
+      "icon": "chart",
+      "summary": "Información financiera confiable para decidir, cumplir y crecer.",
+      "description": "Ordenamos la información contable y financiera de tu empresa para que sea oportuna, confiable y útil. Combinamos dirección financiera estratégica con cumplimiento fiscal y auditoría, apoyados en modelos cuantitativos que anticipan escenarios.",
+      "items": [
+        {
+          "title": "Dirección financiera",
+          "text": "Planeación, presupuestos, flujo de caja y estructura de capital como si tuvieras un CFO dedicado."
+        },
+        {
+          "title": "Servicios de auditoría",
+          "text": "Revisión independiente de estados financieros bajo normas internacionales."
+        },
+        {
+          "title": "Contabilidad en la nube",
+          "text": "Registros contables digitales, accesibles en tiempo real y con reportes automáticos."
+        },
+        {
+          "title": "Servicios de impuestos",
+          "text": "Planificación y cumplimiento tributario, declaraciones y atención de fiscalizaciones."
+        },
+        {
+          "title": "Precios de transferencia",
+          "text": "Análisis y documentación de operaciones entre partes vinculadas."
+        },
+        {
+          "title": "Activos intangibles",
+          "text": "Identificación, valoración y protección de marcas, software y otros intangibles."
+        },
+        {
+          "title": "Comercio exterior",
+          "text": "Estructuración de importaciones y exportaciones, costos aduaneros y logística internacional."
+        },
+        {
+          "title": "Auditoría interna",
+          "text": "Control interno, gestión de riesgos y mejora continua de procesos."
+        }
+      ]
+    },
+    {
+      "id": "direccion-empresarial",
+      "category": "administrativa",
+      "title": "Dirección Empresarial",
+      "icon": "compass",
+      "summary": "Estrategia, gobierno corporativo y optimización económica.",
+      "description": "Acompañamos a la alta dirección en las decisiones que definen el rumbo de la empresa: estrategia, crecimiento, sucesión y eficiencia operativa. Integramos logística avanzada y análisis económico para convertir la estrategia en números.",
+      "items": [
+        {
+          "title": "Empresas familiares",
+          "text": "Protocolo familiar, gobierno corporativo y planes de sucesión."
+        },
+        {
+          "title": "Asesoría financiera patrimonial y empresarial",
+          "text": "Gestión del patrimonio del empresario y de la empresa con visión de largo plazo."
+        },
+        {
+          "title": "Relaciones institucionales",
+          "text": "Vinculación con gremios, organismos y aliados estratégicos."
+        },
+        {
+          "title": "Logística avanzada",
+          "text": "Optimización de inventarios, rutas, almacenes y cadena de suministro con modelos cuantitativos."
+        },
+        {
+          "title": "Optimización económica",
+          "text": "Análisis de costos, precios y rentabilidad por producto, cliente y canal."
+        }
+      ]
+    },
+    {
+      "id": "capital-humano",
+      "category": "administrativa",
+      "title": "Capital Humano",
+      "icon": "people",
+      "summary": "Personas, cultura y cumplimiento laboral.",
+      "description": "El talento es el motor de cualquier estrategia. Diseñamos estructuras organizacionales, procesos de gestión de personas y esquemas de cumplimiento laboral que fortalecen la cultura y reducen riesgos.",
+      "items": [
+        {
+          "title": "Desarrollo organizacional",
+          "text": "Estructura, descripciones de cargo, clima y cultura organizacional."
+        },
+        {
+          "title": "Seguridad social",
+          "text": "Asesoría en obligaciones ante los organismos de seguridad social."
+        },
+        {
+          "title": "Administración de nómina",
+          "text": "Cálculo, pago y reportes de nómina con precisión y confidencialidad."
+        },
+        {
+          "title": "Cumplimiento laboral",
+          "text": "Alineación con la legislación laboral venezolana y prevención de contingencias."
+        },
+        {
+          "title": "Seguridad y salud laboral",
+          "text": "Programas de prevención y gestión de riesgos en el trabajo."
+        },
+        {
+          "title": "Atracción de talento",
+          "text": "Reclutamiento y selección de perfiles clave para tu organización."
+        }
+      ]
+    },
+    {
+      "id": "legal",
+      "category": "juridica",
+      "title": "Legal",
+      "icon": "scale",
+      "summary": "Seguridad jurídica para operar y crecer.",
+      "description": "Brindamos soporte legal corporativo preventivo y operativo para que la empresa tome decisiones con seguridad jurídica y cumpla con sus obligaciones regulatorias.",
+      "items": [
+        {
+          "title": "Consultoría legal corporativa",
+          "text": "Contratos, actas, reestructuraciones societarias y asuntos mercantiles."
+        },
+        {
+          "title": "Prevención de legitimación de capitales",
+          "text": "Políticas, manuales y programas de cumplimiento (compliance)."
+        }
+      ]
+    },
+    {
+      "id": "emprendedores",
+      "category": "juridica",
+      "title": "Emprendedores",
+      "icon": "rocket",
+      "summary": "Del plan de negocio a la empresa en marcha.",
+      "description": "Ayudamos a emprendedores e inversionistas a establecer su negocio en Venezuela con una base legal, fiscal y financiera sólida desde el primer día.",
+      "items": [
+        {
+          "title": "Constitución de empresas en Venezuela",
+          "text": "Registro mercantil, registros fiscales y permisos de operación."
+        },
+        {
+          "title": "Plan de negocio y modelo financiero",
+          "text": "Proyecciones, punto de equilibrio y escenarios de inversión."
+        },
+        {
+          "title": "Acompañamiento de arranque",
+          "text": "Puesta en marcha de contabilidad, nómina y procesos clave."
+        }
+      ]
+    },
+    {
+      "id": "marketing",
+      "category": "comercial",
+      "title": "Marketing",
+      "icon": "megaphone",
+      "summary": "Visibilidad, marca y ventas medibles.",
+      "description": "Diseñamos estrategias comerciales y digitales orientadas a resultados, con métricas claras de adquisición, conversión y retorno sobre la inversión.",
+      "items": [
+        {
+          "title": "Estrategia de marketing digital",
+          "text": "Plan de canales, contenidos, pauta y analítica de resultados."
+        },
+        {
+          "title": "Community manager 360",
+          "text": "Gestión integral de redes sociales y comunidad."
+        },
+        {
+          "title": "Diseño de marca",
+          "text": "Identidad visual, propuesta de valor y posicionamiento."
+        }
+      ]
+    },
+    {
+      "id": "soluciones-tecnologicas",
+      "category": "tecnologia",
+      "title": "Soluciones Tecnológicas",
+      "icon": "chip",
+      "summary": "Datos, software y transformación digital.",
+      "description": "Alineamos la tecnología con los objetivos estratégicos de tu organización. Desde inteligencia de negocios y calidad de datos hasta plataformas de auditoría y gestión de talento en la nube, diseñamos e implementamos soluciones a la medida.",
+      "items": [
+        {
+          "title": "Inteligencia de negocios y analítica",
+          "text": "Tableros, indicadores y modelos que convierten datos en decisiones."
+        },
+        {
+          "title": "Calidad y gobierno de datos",
+          "text": "Datos íntegros, consistentes y disponibles para toda la organización."
+        },
+        {
+          "title": "Soluciones ERP",
+          "text": "Selección, implementación y optimización de sistemas de gestión empresarial."
+        },
+        {
+          "title": "Software de auditoría",
+          "text": "Plataforma alineada a las Normas Internacionales de Auditoría, con programas de trabajo basados en riesgos, minería de datos y trabajo colaborativo."
+        },
+        {
+          "title": "Gestión de capital humano en la nube",
+          "text": "Expedientes digitales, incidencias, pre-nómina, reclutamiento y analítica de RR. HH. sin papeleo."
+        },
+        {
+          "title": "Transformación digital y desarrollos a medida",
+          "text": "Automatización de procesos, integraciones vía API y aplicaciones a la medida."
+        }
+      ]
+    },
+    {
+      "id": "educacion",
+      "category": "educacion",
+      "title": "Educación",
+      "icon": "book",
+      "summary": "Webinars y diplomados para líderes.",
+      "description": "Compartimos conocimiento práctico con empresarios, gerentes y profesionales. Junto a universidades aliadas, acercamos el aula al entorno empresarial real.",
+      "items": [
+        {
+          "title": "Webinars",
+          "text": "Sesiones en línea sobre finanzas, tecnología, logística y tendencias empresariales."
+        },
+        {
+          "title": "Diplomado de Dirección Estratégica",
+          "text": "Planeación estratégica administrativa, financiera, comercial y de talento para empresarios, gerentes, emprendedores y profesionales independientes."
+        },
+        {
+          "title": "Formación in-company",
+          "text": "Programas a la medida para equipos directivos y operativos."
+        }
+      ]
+    }
+  ]
+}
